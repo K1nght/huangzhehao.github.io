@@ -20,8 +20,8 @@ publishDate: "2022-05-26T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Pattern Analysis and Machine Intelligence, 45*(3)"
-publication_short: "TPAMI 2023"
+publication: In *IEEE Transactions on Pattern Analysis and Machine Intelligence, 45*(3)
+publication_short: In *TPAMI 2023*
 
 abstract: Deep neural networks (DNNs) usually contain massive parameters, but there is redundancy such that it is guessed that they could be trained in low-dimensional subspaces. In this paper, we propose a Dynamic Linear Dimensionality Reduction (DLDR) based on the low-dimensional properties of the training trajectory. The reduction method is efficient, supported by comprehensive experiments optimizing DNNs in 40-dimensional spaces can achieve comparable performance as regular training over thousands or even millions of parameters. Since there are only a few variables to optimize, we develop an efficient quasi-Newton-based algorithm, obtain robustness to label noise, and improve the performance of well-trained models, which are three follow-up experiments that can show the advantages of finding such low-dimensional subspaces.
 
