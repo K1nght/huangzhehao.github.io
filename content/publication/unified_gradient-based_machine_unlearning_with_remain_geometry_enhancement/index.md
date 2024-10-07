@@ -5,9 +5,9 @@ title: 'Unified Gradient-Based Machine Unlearning with Remain Geometry Enhanceme
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhehao Huang 
+  - Zhehao Huang
   - Xinwen Cheng 
-  - JingHao Zheng 
+  - Jinghao Zheng 
   - Haoran Wang 
   - Zhengbao He 
   - Tao Li 

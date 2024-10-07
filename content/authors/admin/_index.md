@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 黄哲昊
+title: Zhehao Huang 
 
 # Name pronunciation (optional)
-name_pronunciation: Huang Zhe Hao
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Zhehao
@@ -11,7 +11,7 @@ last_name: Huang
 
 # Status emoji
 status:
-  icon: 💻
+  icon: 👨🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
