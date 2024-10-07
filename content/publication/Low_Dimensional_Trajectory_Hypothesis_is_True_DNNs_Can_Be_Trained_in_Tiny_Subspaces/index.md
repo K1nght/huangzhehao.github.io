@@ -29,8 +29,8 @@ abstract: Deep neural networks (DNNs) usually contain massive parameters, but th
 summary: This paper develops an efficient quasi-Newton-based algorithm, obtains robustness to label noise, and improves the performance of well-trained models, which are three follow-up experiments that can show the advantages of finding such low-dimensional subspaces.
 
 tags:
+- Efficient Training
 - Subspace Training
-- Low-dimensional Training
 featured: false
 
 # links:
