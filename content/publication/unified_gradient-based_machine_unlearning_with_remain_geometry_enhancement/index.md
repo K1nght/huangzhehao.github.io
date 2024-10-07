@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: https://arxiv.org/pdf/2409.19732
 url_code: 'https://github.com/K1nght/Unified-Unlearning-w-Remain-Geometry'
 url_dataset: ''
 url_poster: ''
